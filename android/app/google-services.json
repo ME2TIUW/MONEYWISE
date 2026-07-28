@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "942862515931",
+    "project_id": "money-wise-873dd",
+    "storage_bucket": "money-wise-873dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942862515931:android:db68b8a97326d49a72d6fe",
+        "android_client_info": {
+          "package_name": "id.ac.binus.money_wise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942862515931-mkmrkqsk8jitk7b73a2n8248vjl88k16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.binus.money_wise",
+            "certificate_hash": "52694fe6c7e0e21fa6707453cbb0eeb895786cb5"
+          }
+        },
+        {
+          "client_id": "942862515931-m66bj8q5heus6tc4hkmrmkb94o0r1dbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcEHGJY6juSEhk_IeU8XpArLD-kC2oFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942862515931-m66bj8q5heus6tc4hkmrmkb94o0r1dbm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942862515931-e6kkucatp93j4ph4bspr8dhu00g66l9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.ac.binus.moneyWise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
