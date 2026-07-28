@@ -27,4 +27,6 @@ To run this project locally:
    ```bash
    git clone [https://github.com/yourusername/your-new-repo.git]
    ```
-2. Make sure you have downloaded the necessary tech stack version and initialize your firebase project to run this application for testing purposes.
+2. Make sure you have the required Flutter and Dart versions installed, and run ```flutterfire configure
+   ``` to set up your own Firebase project and generate the necessary ```firebase_options.dart
+   ``` file
