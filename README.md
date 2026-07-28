@@ -27,4 +27,4 @@ To run this project locally:
    ```bash
    git clone [https://github.com/yourusername/your-new-repo.git](https://github.com/yourusername/your-new-repo.git)]
    ```
-2. Make sure you have downloaded the necessary tech stack version to run this application
+2. Make sure you have downloaded the necessary tech stack version and initialize your firebase project to run this application for testing purposes.
